@@ -5,7 +5,7 @@
 <p>Hello, my friend! Back in 2000, I got interested in programming, but then I was young and resisted the voice of my heart. Twenty years after, having a completely different profession, increasing the degree of awareness, I recalled what I really wanted. And here I am now! For a year now, I've been gaining knowledge and I really like it! Every day I'm getting stronger, smarter and more promising! I'm sure I'll become a professional in this interesting and overwhelming sphere!</p>
 <h4>I’m currently learning:</h4>
 <ul>
-  <li><strong><a href="https://https://github.com/Siskinbird/job4j">Level 1</a></strong>: Java SE, ООП</li>
+  <li><strong><a href="https://github.com/Siskinbird/job4j">Level 1</a></strong>: Java SE, ООП</li>
   <li><strong><a href="https://github.com/Siskinbird/job4j_design">Level 2</a></strong>: Data structures and algorithms, input-output, SQL, JDBC, Garbage Collection, OOD</li>
 </ul>
 
