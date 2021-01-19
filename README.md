@@ -8,12 +8,12 @@
   <li><strong><a href="https://github.com/Siskinbird/job4j">Level 1</a></strong>: Java SE, ООП</li>
   <li><strong><a href="https://github.com/Siskinbird/job4j_design">Level 2</a></strong>: Data structures and algorithms, input-output, SQL, JDBC, Garbage Collection, OOD</li>
 </ul>
-<b>Core technologies:</b>
-> ![Java](https://img.shields.io/badge/Java-8-orange) 
+<!--<b>Core technologies:</b>
+![Java](https://img.shields.io/badge/Java-8-orange) 
 ![Maven](https://img.shields.io/badge/Maven-3-red)
 ![Travis](https://img.shields.io/badge/Travis-CI-succes)
 ![Codecov](https://img.shields.io/badge/Codecov)
-
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siskinbird&hide=css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4>Find me here:</h4>
