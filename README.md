@@ -9,13 +9,13 @@
 
 <b>Use technologies:</b>
 
-[![Travis](https://img.shields.io/badge/Travis-CI-green)
-[![Travis_CI](https://img.shields.io/travis/Siskinbird/job4j_design?style=plastic)
-[![Codecov](https://img.shields.io/badge/Codecov-IO-green)
-[![Codecov](https://img.shields.io/codecov/c/gh/Siskinbird/job4j_design)
-[![Java](https://img.shields.io/badge/Java-8-orange)
-[![Maven](https://img.shields.io/badge/Maven-3-red)
-[![JUnit](https://img.shields.io/badge/JUnit-5-green)
+![Travis](https://img.shields.io/badge/Travis-CI-green)
+![Travis_CI](https://img.shields.io/travis/Siskinbird/job4j_design?style=plastic)
+![Codecov](https://img.shields.io/badge/Codecov-IO-green)
+![Codecov](https://img.shields.io/codecov/c/gh/Siskinbird/job4j_design)
+![Java](https://img.shields.io/badge/Java-8-orange)
+![Maven](https://img.shields.io/badge/Maven-3-red)
+![JUnit](https://img.shields.io/badge/JUnit-5-green)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siskinbird&hide=css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
