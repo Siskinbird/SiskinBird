@@ -5,6 +5,8 @@
 <ul>
   <li><strong><a href="https://github.com/Siskinbird/job4j">Level 1</a></strong>: Java SE, ООП</li>
   <li><strong><a href="https://github.com/Siskinbird/job4j_design">Level 2</a></strong>: Data structures and algorithms, input-output, SQL, JDBC, Garbage Collection, OOD</li>
+  <li><strong><a href="https://dmich.ru/">Level 3</a>: HTML, CSS, JS, jQuery, Responsive layout.    
+
 </ul>
 
 <b>Use technologies:</b>
