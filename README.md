@@ -1,14 +1,11 @@
 ### Hi there 👋 My name is Dmitrii🌱
 
 <p>Hello, my friend! Back in 2000, I got interested in programming, but then I was young and resisted the voice of my heart. Twenty years after, having a completely different profession, increasing the degree of awareness, I recalled what I really wanted. And here I am now! For a year now, I've been gaining knowledge and I really like it! Every day I'm getting stronger, smarter and more promising! I'm sure I'll become a professional in this interesting and overwhelming sphere!</p>
-<h4>I’m currently learning:</h4>
+<h4>My Stack:</h4>
 <ul>
-  <li><strong><a href="https://github.com/Siskinbird/job4j">Level 1</a></strong>: Java SE, ООП</li>
-  <li><strong><a href="https://github.com/Siskinbird/job4j_design">Level 2</a></strong>: Data structures and algorithms, input-output, SQL, JDBC, Garbage Collection, OOD</li>
-  <li><strong><a href="https://metaform.ru/">Level 3</a></strong>: HTML, CSS, JS, jQuery, Responsive layout.
-  <li><strong><a href="https://dmich.ru/">Level 4</a></strong>: Vue, Vuex, Firebase Auth, Axios, DataBase
-  <li><strong><a href="https://dmich.ru/">Level 5</a></strong>: TypeScript, Next.js
-
+  <li> :white_check_mark: <strong>HTML5/CSS/Tailwind/Bootstrap</strong></li>
+  <li> :white_check_mark: <strong>JavaScript/Vue.js/JQuery</strong></li>
+  <li> :white_check_mark: <strong>Responsive & Adaptive layout</strong></li>
 </ul>
 
 <b>Use technologies:</b>
@@ -17,7 +14,7 @@
 
 <h4>Find me here:</h4>
 
-[![alt-text](https://img.shields.io/badge/-ВКонтакте-blue?style=flat&logo=vk&logoColor=white  "vk.com")](https://vk.com/chigoff)&nbsp;&nbsp;
+[![alt-text](https://img.shields.io/badge/-ВКонтакте-blue?style=flat&logo=vk&logoColor=white  "vk.com")](https://vk.com/siskin_bird)&nbsp;&nbsp;
 [![alt-text](https://img.shields.io/badge/-instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/d.chig)&nbsp;&nbsp;
 [![alt-text](https://img.shields.io/badge/-telegram-grey?style=flat&logo=telegram&logoColor=white)](https://t.me/Siskin_bird)&nbsp;&nbsp;
 
